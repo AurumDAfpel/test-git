@@ -11,3 +11,9 @@ una bola de carne de pulpo bañada en salsa de soja
 -**sushi**:
 un rollo de arroz relleno con ingredientes marinos usualmente completado con un trozo de pescado crudo (sanitarizado)
 
+## bebidas recomendadas
+-sake
+-gaseosas
+-jugos naturales
+-agua con gas
+
