@@ -14,3 +14,6 @@ una suave rodaja de masa que de cocina de forma delicada par adar una textura pl
 -champagñe
 -liquor lujoso
 
+## consejos
+-tener cuidado conla preparacion
+-tener cuidado con el tiempo de coccion 
