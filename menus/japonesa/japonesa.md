@@ -5,7 +5,7 @@ comida variada e impreisonante con ingredientes frescos y sencillos basados en s
 
 ## platos principales
 -**onigiri**:
-un abola de arroz especial rellena de un amezcla de atun con cebolla y hierbas
+un abola de arroz especial rellena de una mezcla de atun con cebolla y hierbas
 -**takoyaki**:
 una bola de carne de pulpo bañada en salsa de soja
 -**sushi**:
@@ -17,3 +17,6 @@ un rollo de arroz relleno con ingredientes marinos usualmente completado con un 
 -jugos naturales
 -agua con gas
 
+## consejos
+-tener cuidado con los ingredientes crudos que se usan para algunas recetas
+-no pasarse con la salsa de soja
