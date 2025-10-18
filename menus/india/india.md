@@ -14,3 +14,6 @@ salsa de verduras con trozos de carne
 -gaseosas
 -agua con gas
 
+## consejos
+-usa ingredientes frescos
+-ten cuidado con la sanidad de la comida
