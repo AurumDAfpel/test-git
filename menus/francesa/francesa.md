@@ -9,3 +9,8 @@ rodajas de vegetales y verduras apiladas de forma elegante al rededor de un plat
 -**crepes**
 una suave rodaja de masa que de cocina de forma delicada par adar una textura placentera y suave
 
+## bebidas recomendadas
+-vino tinto
+-champagñe
+-liquor lujoso
+
