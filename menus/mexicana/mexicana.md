@@ -13,3 +13,7 @@ carne, cebolla, salsa, guacamole envueltos en tortilla enrollada
 ## bebidas recomendadas
 -gaseosas 
 -jugos naturales
+
+## consejos
+-maneja la cantidad de ingredientes picantes si eres sensible
+-usa ingredientes frescos para mejores resultados y mas sabor
