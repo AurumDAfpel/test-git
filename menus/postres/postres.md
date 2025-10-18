@@ -16,3 +16,6 @@ postre de crema de huevo con una capa de azucar derretida con soplete en la supe
 -vino
 -liquor
 
+## consejos
+-cuidado con la preparacion suele ser compleja
+-cuidado con la frescura de algunos ingredientes
