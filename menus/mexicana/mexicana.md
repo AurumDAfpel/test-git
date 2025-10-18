@@ -10,3 +10,6 @@ tortillas dobladas en forma de u rellenas de carne, tomate, cebolla, guacamole y
 -**burritos**:
 carne, cebolla, salsa, guacamole envueltos en tortilla enrollada
 
+## bebidas recomendadas
+-gaseosas 
+-jugos naturales
