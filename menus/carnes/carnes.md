@@ -12,3 +12,8 @@ pollo sofreido en aceite hirviendo
 pescado preparado en una sarten con agua tapada
 
 ## bebidas recomendadas
+-gaseosas
+-jugos naturales
+-cervezas
+-liquor
+
