@@ -9,3 +9,7 @@ bochachico fresco frito en aceite irviendo se sirve junto a arroz limon y ensala
 -**ensalada de frutas**:
 ensalada de frutas compuesta por trozos de frutas tropicales se suele compañar con lechera o helado
 
+## bebidas recomendadas
+-gaseosas
+-cerveza
+-jugos naturales
