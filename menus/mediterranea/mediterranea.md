@@ -13,3 +13,7 @@ ensalada de frutas compuesta por trozos de frutas tropicales se suele compañar 
 -gaseosas
 -cerveza
 -jugos naturales
+
+## consejos
+-revisar si los ingredientes estan frescos
+-tener cuidado con las espinas que tienen algunos pescados en su carne
