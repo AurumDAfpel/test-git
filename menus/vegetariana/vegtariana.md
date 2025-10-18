@@ -3,3 +3,9 @@
 ## descripcion
 comida saludable libres de carne 
 
+## platos principales
+-**ensalada**:
+ensalada simple de tomate cebolla y limon con sal,se le pueden adicionar cosas al gusto
+-**filete de tofu**:
+el tofu se usa como reemplazo para la carne ya qu ees de origen vegetal y se cocina de forma especial
+
