@@ -15,3 +15,7 @@ el tofu se usa como reemplazo para la carne ya qu ees de origen vegetal y se coc
 -agua con gas
 -jugos naturales
 
+## consejos
+-tener cuidado con la frscura de los ingredientes
+-tener cuidado con como se preparan algunos ingredientes
+-preparar correctamente los ingredientes
