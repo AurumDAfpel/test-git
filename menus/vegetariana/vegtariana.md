@@ -1,7 +1,7 @@
 # menu comida vegetariana
 
 ## descripcion
-comida saludable libres de carne 
+comida saludable libre de carne pero con poco contenido de proteina y calorias
 
 ## platos principales
 -**ensalada**:
