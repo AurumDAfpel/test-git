@@ -15,3 +15,7 @@ arroz cremoso con setas
 -vino tinto chianti 
 -agua con gas 
 -limoncello como digestivo
+
+## consejos
+-usar ingredientes frescos para mejores resultados
+-acompañar con pan artesanal para experiencia completa
