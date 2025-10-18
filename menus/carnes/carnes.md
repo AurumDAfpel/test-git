@@ -17,3 +17,6 @@ pescado preparado en una sarten con agua tapada
 -cervezas
 -liquor
 
+## consejos
+-tener cuidado con la temperatura de coccion
+-tener cuidado con la sanitarizacion de los ingredientes
