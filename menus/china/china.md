@@ -9,3 +9,9 @@ una mezcla de ingredientes como tomate, carne y cebolla envuelta en forma de bol
 -**arroz frito**:
 arroz sofreido en aceite caliente y complementado con raices blancas y pedacitos de carne o pollo o salsa agridulce
 
+## bebidas recomendadas
+-gaseosas
+-liquor chino
+-agua con gas
+-jugos naturales
+
