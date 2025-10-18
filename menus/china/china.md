@@ -15,3 +15,6 @@ arroz sofreido en aceite caliente y complementado con raices blancas y pedacitos
 -agua con gas
 -jugos naturales
 
+## consejos
+-usar ingredientes frescos
+-el timepo de coccion es bastante delicado
